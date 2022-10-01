@@ -5,6 +5,7 @@
     <li>
         Starting with rustscan.<br><br>
         <img src="./img/rustscan.png" alt="rustscan" width="400"><br>
+        Theres only one port open. Let's check it out.
     </li>
     <li>
         Explorig the WebPage.<br><br>
