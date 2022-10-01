@@ -1,15 +1,18 @@
 <h1>TryHackMe - Corridor</h1><br>
+<img src="./img/room-icon.png" alt="room-icon">
+<p>I have tried a lot of stupid and unnecessary steps in this room knowing it was an easy room, so i will be excluding those from this writeup.</p><br>
+<br>
+<h2>Reconnaissance</h2>
 
-![room-icon](./img/room-icon.png)  
-
-## Reconnaissance  
-
-1. Starting with rustscan.  
+<ol>
+    <li>Starting with rustscan.</li>
+    <li>Explorig the WebPage</li>
+    <li>Getting the flag</li>
+</ol>
 
 &nbsp; &nbsp; &nbsp; &nbsp; ![rustscan](./img/rustscan.png)  
 &nbsp; &nbsp; &nbsp; &nbsp; Only one port is open. Let's check it out.  
 
-2. Explorig the WebPage
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="./img/webpage.png" alt="web-page" width="200"/>  
 &nbsp; &nbsp; &nbsp; &nbsp; It's a webpage with a lot of door's. Let's checkout the source code.  
