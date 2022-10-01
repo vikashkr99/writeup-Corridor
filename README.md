@@ -9,10 +9,20 @@
     </li>
     <li>
         Explorig the WebPage.<br><br>
-            <img src="./img/webpage.png" alt="webpage" width="450"><br>
-            its a simple webpage with a lot of doors.<br>
-            <img src="./img/source-code.png" alt="source-code" width="550"><br>
-            And that it's endpoints are hased values of something.<br>
+        <ul style="list-style: none;">
+            <li>
+                <img src="./img/webpage.png" alt="webpage" width="450"><br>
+            </li>
+            <li>
+                its a simple webpage with a lot of doors.<br>
+            </li>
+            <li>
+                <img src="./img/source-code.png" alt="source-code" width="550"><br>
+            </li>
+            <li>
+                And that it's endpoints are hased values of something. Let's crack them using crackstation<br>
+            </li>
+        </ul>
     </li>
     <li>Getting the flag</li>
 </ol>
