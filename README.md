@@ -15,7 +15,7 @@
             &emsp;And that it's endpoints are hased values of something. Let's crack them using crackstation<br><br>
             &emsp;<img src="./img/hashes.png" alt="hashes" width="400"><br>
             &emsp;the endpoints are MD5 hash values of numbers from 1 to 13.<br>
-    </li>
+    </li><br>
     <li>
         Getting the flag.<br><br>
             &emsp;The room description suggests us to uncover website locations and also to look at the pattern for help so<br>
