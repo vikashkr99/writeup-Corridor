@@ -7,7 +7,7 @@
         Starting with rustscan.<br>
         <img src="./img/rustscan.png" alt="rustscan" width="400"><br>
     </li>
-    <li style="padding-left: 50px;">
+    <li style="margin-left: 50px;">
         Explorig the WebPage.<br><br>
             <img src="./img/webpage.png" alt="webpage" width="450"><br>
             its a simple webpage with a lot of doors.<br>
