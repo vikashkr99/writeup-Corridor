@@ -5,10 +5,10 @@
     <li>
         Starting with rustscan.<br><br>
         <img src="./img/rustscan.png" alt="rustscan" width="400"><br>
-        Theres only one port open. Let's check it out.<br>
-    </li>
+        Theres only one port open. Let's check it out.
+    </li><br>
     <li>
-        Explorig the WebPage.<br><br>
+        Explorig the WebPage.<br>
             &emsp;<img src="./img/webpage.png" alt="webpage" width="450">
             &emsp;its a simple webpage with a lot of doors.<br><br>
             &emsp;<img src="./img/source-code.png" alt="source-code" width="550">
