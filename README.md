@@ -1,9 +1,7 @@
 <h1>TryHackMe - Corridor</h1><br>
 <img src="./img/room-icon.png" alt="room-icon">
-<p>I have tried a lot of stupid and unnecessary steps in this room knowing it was an easy room, so i will be excluding those from this writeup.</p><br>
-<br>
+<p>I have tried a lot of stupid and unnecessary steps in this room knowing it was an easy room, so i will be excluding those from this writeup.</p>
 <h2>Reconnaissance</h2>
-
 <ol>
     <li>Starting with rustscan.</li>
     <li>Explorig the WebPage</li>
