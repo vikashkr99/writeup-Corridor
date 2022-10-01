@@ -17,12 +17,8 @@
     </li>
     <li>
         Getting the flag.<br><br>
-        <ul >
-            <li>123</li>
-        </ul>
             &emsp;The room description suggests us to uncover website locations and also to look at the pattern for help so<br>
             &emsp;my next step is to write a python script that generates hash of numbers and test's weather they exist here.<br>
-
     </li>
 </ol>
 
