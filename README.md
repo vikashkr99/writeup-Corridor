@@ -9,8 +9,10 @@
     </li>
     <li>
         Explorig the WebPage.<br><br>
-        <img src="./img/webpage.png" alt="webpage" width="450"><br>
-        its a simple webpage with a lot of doors.<br>
+            <img src="./img/webpage.png" alt="webpage" width="450"><br>
+            its a simple webpage with a lot of doors.<br>
+            <img src="./img/source-code.png" alt="source-code">
+            And that it's endpoints are hased values of something.<br>
     </li>
     <li>Getting the flag</li>
 </ol>
