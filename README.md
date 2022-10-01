@@ -4,12 +4,12 @@
 <h2>Reconnaissance</h2>
 <ol>
     <li>
-        Starting with rustscan.<br>
+        Starting with rustscan.<br>  
 
         <img src="./img/rustscan.png" alt="rustscan" width="400"><br>
     </li>
     <li>
-        Explorig the WebPage.<br>
+        Explorig the WebPage.<br>  
         
             &emsp;<img src="./img/webpage.png" alt="webpage" width="450"><br>
             &emsp;its a simple webpage with a lot of doors.<br><br>
