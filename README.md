@@ -14,3 +14,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; ![source-code](./img/source-code.png)  
 &nbsp; &nbsp; &nbsp; &nbsp; From the room's descriptoin, we know that these are hashes so lets check which one and crack them.  
+
+&nbsp; &nbsp; &nbsp; &nbsp; ![hashes](./img/hashes.png)  
+&nbsp; &nbsp; &nbsp; &nbsp; Hash-Identifier specified that these are MD5 hashes and crackstation result shows that these endpoints are MD5 values of numbers from 1 to 13.
