@@ -11,7 +11,7 @@
 
 2. Explorig the WebPage
 
-&nbsp; &nbsp; &nbsp; &nbsp; ![webpage](./img/webpage.png)  
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="./img/webpage.png" alt="web-page" width="200"/>  
 &nbsp; &nbsp; &nbsp; &nbsp; It's a webpage with a lot of door's. Let's checkout the source code.  
 
 &nbsp; &nbsp; &nbsp; &nbsp; ![source-code](./img/source-code.png)  
