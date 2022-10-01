@@ -3,12 +3,15 @@
 <p>I have tried a lot of stupid and unnecessary steps in this room knowing it was an easy room, so i will be excluding those from this writeup.</p>
 <h2>Reconnaissance</h2>
 <ol>
-    <li>Starting with rustscan.</li>
+    <li>
+        Starting with rustscan.<br>
+        <img src="./img/rustscan.png" alt="rustscan" width="300">
+    </li>
     <li>Explorig the WebPage</li>
     <li>Getting the flag</li>
 </ol>
 
-&nbsp; &nbsp; &nbsp; &nbsp; ![rustscan](./img/rustscan.png)  
+<!-- &nbsp; &nbsp; &nbsp; &nbsp; ![rustscan](./img/rustscan.png)  
 &nbsp; &nbsp; &nbsp; &nbsp; Only one port is open. Let's check it out.  
 
 
@@ -30,4 +33,4 @@
 ![pythonScript](./img/python-script.png)  
 
 
-<h1>Done</h1>
+<h1>Done</h1> -->
