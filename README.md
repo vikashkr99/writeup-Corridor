@@ -16,9 +16,10 @@
             &emsp;the endpoints are MD5 hash values of numbers from 1 to 13.<br><br>
     </li>
     <li>
-        Getting the flag.<br><br>
+        Getting the flag.<br>
             &emsp;The room description suggests us to uncover website locations and also to look at the pattern for help so<br>
             &emsp;my next step is to write a python script that generates hash of numbers and test's weather they exist here.<br>
+            &emsp;<img src="./img/python-script.png" alt="script"><br>
     </li>
 </ol>
 
