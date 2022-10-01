@@ -8,7 +8,7 @@
         <img src="./img/rustscan.png" alt="rustscan" width="400"><br>
     </li>
     <li>
-        Explorig the WebPage.<br>
+        Explorig the WebPage.<br><br>
         <img src="./img/webpage.png" alt="webpage" width="450"><br>
         its a simple webpage with a lot of doors.<br>
     </li>
