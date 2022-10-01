@@ -1,6 +1,5 @@
 <h1>TryHackMe - Corridor</h1><br>
 <img src="./img/room-icon.png" alt="room-icon">
-<p>I have tried a lot of stupid and unnecessary steps in this room knowing it was an easy room, so i will be excluding those from this writeup.</p>
 <h2>Reconnaissance</h2>
 <ol>
     <li>
@@ -16,7 +15,10 @@
             &emsp;<img src="./img/hashes.png" alt="hashes" width="400"><br>
             &emsp;the endpoints are MD5 hash values of numbers from 1 to 13.<br><br>
     </li>
-    <li>Getting the flag</li>
+    <li>
+        Getting the flag.<br><br>
+            &emsp;The room description suggests us to uncover website locations and also to look at the pattern for help so my next step is to write a python scriipt that generates hash of numbers and test's weather they exist here.
+    </li>
 </ol>
 
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; ![rustscan](./img/rustscan.png)  
