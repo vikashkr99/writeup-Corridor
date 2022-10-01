@@ -1,6 +1,6 @@
 # TryHackMe - Corridor  
 
-![room icon](./img/room-icon.png)  
+![room-icon](./img/room-icon.png)  
 
 ## Reconnaissance  
 
@@ -23,3 +23,7 @@
 ## Exploiting  
 
 #### We know the endpoints are hashes of numbers so my next step was to write a python script to find hidden endpoints.
+
+##### Python Script  
+
+![pythonScript](./img/python-script.png)  
