@@ -21,7 +21,8 @@
             &emsp;The room description suggests us to uncover website locations and also to look at the pattern for help so<br>
             &emsp;my next step is to write a python script that generates hash of numbers and test's weather they are valid<br>
             &emsp;endpoints or not.<br>
+	    &emsp;This was my python script for the job.<br>
             &emsp;<img src="./img/python-script.png" alt="script"><br>
-            &emsp;And just as i expected, i got an endpoint where i got the flag.<br><br>
+            &emsp;And just as i expected, i got an endpoint after executing the script where i found the flag.<br><br>
     </li>
 </ol>
