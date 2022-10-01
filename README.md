@@ -20,6 +20,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; ![hashes](./img/hashes.png)  
 &nbsp; &nbsp; &nbsp; &nbsp; Hash-Identifier specified that these are MD5 hashes and crackstation result shows that these endpoints are MD5 values of numbers from 1 to 13.
 
-## Exploiting
+## Exploiting  
 
-### We know the endpoints are hases of numbers so mmy next step was to write a script to find hidded endpoints.
+#### We know the endpoints are hashes of numbers so my next step was to write a python script to find hidden endpoints.
