@@ -10,9 +10,9 @@
     <li>
         Explorig the WebPage.<br><br>
             &emsp;<img src="./img/webpage.png" alt="webpage" width="450"><br>
-            &emsp;its a simple webpage with a lot of doors.<br><br>
+            &emsp;it's a simple webpage with a lot of doors.<br><br>
             &emsp;<img src="./img/source-code.png" alt="source-code" width="550"><br>
-            &emsp;And that it's endpoints are hased values of something. Let's crack them using crackstation<br><br>
+            &emsp;And it's endpoints are hashed values of something. Let's crack them using crackstation<br><br>
             &emsp;<img src="./img/hashes.png" alt="hashes" width="400"><br>
             &emsp;the endpoints are MD5 hash values of numbers from 1 to 13.<br>
     </li><br>
