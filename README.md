@@ -5,9 +5,13 @@
 <ol>
     <li>
         Starting with rustscan.<br>
-        <img src="./img/rustscan.png" alt="rustscan" width="400">
+        <img src="./img/rustscan.png" alt="rustscan" width="400"><br>
     </li>
-    <li>Explorig the WebPage</li>
+    <li>
+        Explorig the WebPage.<br>
+        <img src="./img/webpage.png" alt="webpage" width="450"><br>
+        its a simple webpage with a lot of doors.<br>
+    </li>
     <li>Getting the flag</li>
 </ol>
 
