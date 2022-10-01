@@ -5,7 +5,7 @@
 <ol>
     <li>
         Starting with rustscan.<br>
-        <img src="./img/rustscan.png" alt="rustscan" width="300">
+        <img src="./img/rustscan.png" alt="rustscan" width="400">
     </li>
     <li>Explorig the WebPage</li>
     <li>Getting the flag</li>
