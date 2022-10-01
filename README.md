@@ -8,7 +8,7 @@
         Theres only one port open. Let's check it out.
     </li><br>
     <li>
-        Explorig the WebPage.<br>
+        Explorig the WebPage.<br><br>
             &emsp;<img src="./img/webpage.png" alt="webpage" width="450"><br>
             &emsp;its a simple webpage with a lot of doors.<br><br>
             &emsp;<img src="./img/source-code.png" alt="source-code" width="550"><br>
